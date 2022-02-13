@@ -1,5 +1,18 @@
 = Test Document
 
-== This is test.
+== English Test Section
 
-== これはテストです。
+This is test.
+
+== 日本語のテストの章
+
+これは日本語のテストです。
+
+== PlantUML Test
+
+[plantuml]
+----
+class Test{
+    Execute()
+}
+----

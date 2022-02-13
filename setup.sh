@@ -8,3 +8,4 @@ sudo gem install asciidoctor
 
 # install asciidoctor option
 sudo gem install asciidoctor-pdf
+sudo gem install asciidoctor-diagram
