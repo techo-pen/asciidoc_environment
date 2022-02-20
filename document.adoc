@@ -16,3 +16,9 @@ class Test{
     Execute()
 }
 ----
+
+== PlantUML include Test
+[plantuml]
+----
+include::uml/test.puml[]
+----
