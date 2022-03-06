@@ -1,0 +1,3 @@
+{
+    "asciidoc.asciidoctor_command": " asciidoctor -r asciidoctor-diagram -a outdir=.asciidoctor -a imagesdir=.asciidoctor -a imagesoutdir=.asciidoctor"
+}
